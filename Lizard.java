@@ -8,6 +8,6 @@ class Lizard extends Reptile {
     }
 
     public void displayInfo() {
-        System.out.println("Snake - Name: " + getName() + ", Age: " + getAge() + ", Gender: " + getGender());
+        System.out.println("Lizard - Name: " + getName() + ", Age: " + getAge() + ", Gender: " + getGender());
     }
 }
