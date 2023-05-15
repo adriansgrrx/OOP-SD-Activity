@@ -16,7 +16,8 @@ abstract class Animal {
 
     public abstract void speak();
     public abstract void displayInfo();
-
+    
+    // getter and setter methods
     public String getName() {
         return name;
     }

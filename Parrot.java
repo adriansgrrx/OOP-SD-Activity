@@ -4,7 +4,7 @@ class Parrot extends Mammal {
     }
 
     public void speak() {
-        System.out.println(getName() + " the eagle squawks, \"Squaaaaak!\"");
+        System.out.println(getName() + " squawks, \"Squaaaaak!\"");
     }
 
     public void displayInfo() {

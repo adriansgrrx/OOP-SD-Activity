@@ -1,3 +1,7 @@
+// Create a main class, do the following:
+// a. Instantiate different animal objects.
+// b. Call the displayInfo() and speak() methods to display the animals' information and 
+// speak value
 public class Main {
     public static void main(String[] args) {
         Lion lion = new Lion("Manny", 10, "Male");

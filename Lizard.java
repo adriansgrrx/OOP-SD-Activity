@@ -4,7 +4,7 @@ class Lizard extends Reptile {
     }
 
     public void speak() {
-        System.out.println(getName() + " the lizard clicks, \"Tsk-tsk-tsk!\"");
+        System.out.println(getName() + " clicks, \"Tsk-tsk-tsk!\"");
     }
 
     public void displayInfo() {

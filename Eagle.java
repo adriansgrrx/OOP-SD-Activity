@@ -4,7 +4,7 @@ class Eagle extends Mammal {
     }
 
     public void speak() {
-        System.out.println(getName() + " the eagle screeches, \"Eaaaahhhhh!\"");
+        System.out.println(getName() + " screeches, \"Eaaaahhhhh!\"");
     }
 
     public void displayInfo() {

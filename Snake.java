@@ -4,7 +4,7 @@ class Snake extends Reptile {
     }
 
     public void speak() {
-        System.out.println(getName() + " the snake hisses, \"Hsss-hsss-hsss\"");
+        System.out.println(getName() + " hisses, \"Hsss-hsss-hsss\"");
     }
 
     public void displayInfo() {

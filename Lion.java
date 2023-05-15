@@ -4,7 +4,7 @@ class Lion extends Mammal {
     }
     
     public void speak() {
-        System.out.println(getName() + " the lion roars, \"RAWRRR!\"");
+        System.out.println(getName() + " roars, \"RAWRRR!\"");
     }
 
     public void displayInfo() {

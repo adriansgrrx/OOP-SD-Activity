@@ -4,7 +4,7 @@ class Elephant extends Mammal {
     }
 
     public void speak() {
-        System.out.println(getName() + " the elephant snorts, \"Pffftee!\"");
+        System.out.println(getName() + " snorts, \"Pffftee!\"");
     }
 
     public void displayInfo() {
