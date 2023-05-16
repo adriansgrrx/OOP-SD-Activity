@@ -1,4 +1,4 @@
-class Parrot extends Mammal {
+class Parrot extends Bird {
     public Parrot(String name, int age, String gender) {
         super(name, age, gender);
     }

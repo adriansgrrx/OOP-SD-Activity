@@ -1,4 +1,4 @@
-class Eagle extends Mammal {
+class Eagle extends Bird {
     public Eagle(String name, int age, String gender) {
         super(name, age, gender);
     }
